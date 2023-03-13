@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 jas jas 4096 Mar 13 19:28 .
+drwxrwxr-x 6 jas jas 4096 Mar 13 13:52 ..
+-rwxrwxr-x 1 jas jas   33 Mar 13 18:16 0-hello_world
+-rwxrwxr-x 1 jas jas   28 Mar 13 15:57 1-confused_smiley
+-rwxrwxr-x 1 jas jas   29 Mar 13 16:02 2-hellofile
+-rwxrwxr-x 1 jas jas   40 Mar 13 16:09 3-twofiles
+-rwxrwxr-x 1 jas jas   35 Mar 13 16:17 4-lastlines
+-rwxrwxr-x 1 jas jas   35 Mar 13 16:29 5-firstlines
+-rwxrwxr-x 1 jas jas   39 Mar 13 18:29 6-third_line
+-rwxrwxr-x 1 jas jas  101 Mar 13 19:20 7-file
+-rwxrwxr-x 1 jas jas   36 Mar 13 19:27 8-cwd_state
+-rw-rw-r-- 1 jas jas  916 Mar 13 16:48 iacta
+-rw-rw-r-- 1 jas jas    0 Mar 13 19:28 ls_cwd_content
